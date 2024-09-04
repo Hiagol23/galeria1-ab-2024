@@ -1,6 +1,6 @@
 # Landing Page - Galeria 1
 
-![]()
+![](Captura de Tela 2024-09-04 às 16.56.43.png)
 ---
 ## Sobre
 Site do tipo landing Page para divulgar Galeria.
